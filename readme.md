@@ -1,22 +1,22 @@
 # TARS: Transparent Auditable Resilience System for WireGuard Deployment
 
-![TARS Logo](docs/images/tars_logo.png)
+![TARS Logo](docs/images/6fc40cb1-6646-49ce-b559-971887e8cfd4_577x433.webp)
 
 
 ---
 
 
-[![Build Status](https://github.com/BlorpBleep/LARS/actions/workflows/build.yml/badge.svg)](https://github.com/BlorpBleep/LARS/actions)
+[![Build Status](https://github.com/BlorpBleep/TARS/actions/workflows/build.yml/badge.svg)](https://github.com/BlorpBleep/TARS/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md)
-[![GitHub Stars](https://img.shields.io/github/stars/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/pulls)
-[![GitHub Contributors](https://img.shields.io/github/contributors/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/graphs/contributors)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/commits/main)
-[![Codecov Coverage](https://img.shields.io/codecov/c/github/BlorpBleep/LARS.svg)](https://codecov.io/gh/BlorpBleep/LARS)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/BlorpBleep/LARS)
+[![GitHub Stars](https://img.shields.io/github/stars/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/pulls)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/graphs/contributors)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/commits/main)
+[![Codecov Coverage](https://img.shields.io/codecov/c/github/BlorpBleep/TARS.svg)](https://codecov.io/gh/BlorpBleep/TARS)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/BlorpBleep/TARS)
 [![Chat on Discord](https://img.shields.io/discord/123456789012345678.svg)](https://discord.gg/yourserver)
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-GitHub-%23EA4AAA.svg)](https://github.com/sponsors/BlorpBleep)
 ---
@@ -78,8 +78,8 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/BlorpBleep/LARS.git
-   cd LARS
+   git clone https://github.com/BlorpBleep/TARS.git
+   cd TARS
    ```
 
 2. **Install Dependencies**
@@ -199,8 +199,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Contact
 
 - **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **GitHub Issues**: [Create an Issue](https://github.com/BlorpBleep/LARS/issues)
-- **Discussion Forum**: [GitHub Discussions](https://github.com/BlorpBleep/LARS/discussions)
+- **GitHub Issues**: [Create an Issue](https://github.com/BlorpBleep/TARS/issues)
+- **Discussion Forum**: [GitHub Discussions](https://github.com/BlorpBleep/TARS/discussions)
 
 ---
 
