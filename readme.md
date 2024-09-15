@@ -11,7 +11,6 @@
 [![GitHub Contributors](https://img.shields.io/github/contributors/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/graphs/contributors)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/commits/main)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/BlorpBleep/TARS)
-[![Chat on Discord](https://img.shields.io/discord/123456789012345678.svg)](https://discord.gg/yourserver)
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-GitHub-%23EA4AAA.svg)](https://github.com/sponsors/BlorpBleep)
 
 ---
