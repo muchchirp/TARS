@@ -6,21 +6,6 @@
 ## https://www.cicadavpn.com
 
 
-[![Build Status](https://github.com/BlorpBleep/LARS/actions/workflows/build.yml/badge.svg)](https://github.com/BlorpBleep/LARS/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md)
-[![GitHub Stars](https://img.shields.io/github/stars/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/pulls)
-[![GitHub Contributors](https://img.shields.io/github/contributors/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/graphs/contributors)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/BlorpBleep/LARS.svg)](https://github.com/BlorpBleep/LARS/commits/main)
-[![Codecov Coverage](https://img.shields.io/codecov/c/github/BlorpBleep/LARS.svg)](https://codecov.io/gh/BlorpBleep/LARS)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/BlorpBleep/LARS)
-[![Chat on Discord](https://img.shields.io/discord/123456789012345678.svg)](https://discord.gg/yourserver)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-GitHub-%23EA4AAA.svg)](https://github.com/sponsors/BlorpBleep)
-
-
 # TARS: Transparent Auditable Resilience System for WireGuard Deployment
 
 ---
@@ -251,7 +236,7 @@ Ed25519 is a widely used digital signature algorithm known for its security and 
 
 We invite the community to contribute to TARS:
 
-- **GitHub Repository**: [TARS Project](https://github.com/BlorpBleep/LARS)
+- **GitHub Repository**: [TARS Project](https://github.com/BlorpBleep/TARS)
 - **Contact**: For inquiries and contributions, please reach out through the project's GitHub page.
 
 ---
