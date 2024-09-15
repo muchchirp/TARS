@@ -272,10 +272,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
+- **Project Maintainer**: [Your Name](mailto:developer@cicadavpn.com)
 - **GitHub Issues**: [Create an Issue](https://github.com/BlorpBleep/TARS/issues)
 - **Discussion Forum**: [GitHub Discussions](https://github.com/BlorpBleep/TARS/discussions)
-- **Discord**: [Join our Discord server](https://discord.gg/yourserver)
+- **Discord**: [Join our Discord server](https://discord.gg/cicadavpn)
 
 ---
 
@@ -366,16 +366,15 @@ The `verify.py` script should:
 # Quick Links
 
 - **White Paper**: [Read the TARS White Paper](docs/white_paper.md)
-- **API Documentation**: [View API Docs](docs/api.md)
-- **Changelog**: [See What's New](CHANGELOG.md)
+- **Changelog**: [See What's New](changelog.md)
 
 ---
 
 # Stay Connected
 
-- **Twitter**: [Follow us on Twitter](https://twitter.com/YourProject)
-- **Newsletter**: [Subscribe to our newsletter](https://yourproject.com/newsletter)
-- **Blog**: [Read our latest posts](https://yourproject.com/blog)
+- **Twitter**: [Follow us on Twitter](https://twitter.com/cicadavpn)
+- **Newsletter**: [Subscribe to our newsletter](https://cicadavpn.substack.com/)
+- **Blog**: [Read our latest posts](https://cicadavpn.com/blog)
 
 ---
 
