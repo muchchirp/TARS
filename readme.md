@@ -6,7 +6,7 @@
 ---
 
 
-[![Build Status](https://github.com/BlorpBleep/TARS/actions/workflows/build.yml/badge.svg)](https://github.com/BlorpBleep/TARS/actions)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md)
 [![GitHub Stars](https://img.shields.io/github/stars/BlorpBleep/TARS.svg)](https://github.com/BlorpBleep/TARS/stargazers)
